@@ -4,6 +4,7 @@ font-size: 48px;
 color: rgb(135, 73, 193);
 background-image:url(https://stadszaken.nl/upload/images/Openbare_ruimte_1_Heerlen%2C_door_Kasper_Baggerman_729x243.jpg);
 float: right;
+width:100%
 }
 [class*="col-"]{
 width:100%;
